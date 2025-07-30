@@ -1,0 +1,7 @@
+customer_id,name,phone,email,pin_code
+C001,Rahul Sharma,9876543210,rahul@example.com,110034
+C002,Neha Singh,9123456780,neha_at_email.com,0
+C003,Rohan Verma,9988776655,rohan@gmail.com,
+C004,Priya Mehra,9871234567,priya#email.com,123456
+C005,Aman Gupta,7894561230,aman@example.com,122001
+,aman babu,,,
